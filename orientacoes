@@ -1,0 +1,28 @@
+Sobre o projeto:
+	Trata-se de uma aplicação que "simula" o planeta Vegeta da série de anime/mangá Dragon 		Ball, no qual é possível cadastrar novos saiyajins, editar informações dos saiyajins 		cadastrados e excluir saiyajins. A aplicação lista os saiyajins existentes no planeta 		Vegeta, onde será possível fazer qualquer ação das citadas anteriormente.
+
+Itens do item 1 que foram implementados:
+
+	A -> Fazer uma aplicação utilizando PHP usando o Framework Laravel
+
+	B -> Utilizar persistência em um banco de dados PostgreSQL
+
+	C -> Utilizar Eloquent ORM
+
+	D -> Utilizar Bootstrap 4
+
+	H -> Publicar projeto no heroku
+
+Instruções para execução em ambiente local:
+
+	Para executar o projeto é necessário, no terminal, acessar a pasta do projeto e digitar
+
+					php artisan serve
+
+	Claro, considerando que o o Laravel, composer e PHP estejam instalados no seu computador. Isso vai executar o servidor. Agora, para executar o projeto em si deve-se ir no navegador e digitar:
+
+					localhost:8000/saiyan
+
+	Pronto, assim acontecerá o redirecionamento direto para o index da aplicação.
+
+
