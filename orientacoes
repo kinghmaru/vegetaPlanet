@@ -11,8 +11,6 @@ Itens do item 1 que foram implementados:
 
 	D -> Utilizar Bootstrap 4
 
-	H -> Publicar projeto no heroku
-
 Instruções para execução em ambiente local:
 
 	Para executar o projeto é necessário, no terminal, acessar a pasta do projeto e digitar
