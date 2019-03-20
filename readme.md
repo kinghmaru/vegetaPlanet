@@ -5,11 +5,13 @@
 
 ## 1 - Instalar dependências do projeto
 Após baixar o projeto e instalá-lo, acesse a pasta do projeto pelo terminal e digite:
+```
 composer install
-
+```
 ## 2 - Criar arquivo de ambiente
+```
 cp .env.example .env
-
+```
 ## 3 - Gerar chave de aplicação
 ```php
 php artisan key:generate
